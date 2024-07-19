@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/bertiniawara/updatemanifest.git
+    repoURL: https://github.com/yannemma/exercice_perso_deployment1.git
     targetRevision: HEAD
     path: deploy/
   destination:
