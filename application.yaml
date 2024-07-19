@@ -8,6 +8,7 @@ spec:
   source:
     repoURL: https://github.com/yannemma/exercice_perso_deployment1.git
     targetRevision: HEAD
+    path: deploy/
   destination:
     server: https://kubernetes.default.svc
     namespace: my-argoapp
